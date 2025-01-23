@@ -1,2 +1,1 @@
-My second git  project
-
+this is my second project
