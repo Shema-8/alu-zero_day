@@ -1,1 +1,2 @@
-my second readme shema
+My second git  project
+
